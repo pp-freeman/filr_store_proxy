@@ -1,0 +1,48 @@
+logging.pattern.file=2022-09-09-10:57:57 [main] INFO  com.anzhou.file_store_proxy.FileStoreProxyApplication-AAAA Starting FileStoreProxyApplication using Java 1.8.0_241 on DESKTOP-QN4LL7C with PID 16296 (C:\Users\pengpan\IdeaProjects\file_store_proxy\target\classes started by pengpan in C:\Users\pengpan\IdeaProjects\file_store_proxy)
+logging.pattern.file=2022-09-09-10:57:57 [main] INFO  com.anzhou.file_store_proxy.FileStoreProxyApplication-AAAA No active profile set, falling back to 1 default profile: "default"
+logging.pattern.file=2022-09-09-10:57:58 [main] INFO  org.springframework.cloud.context.scope.GenericScope-AAAA BeanFactory id=25eb39a3-9916-3802-819b-afed00d2af1a
+logging.pattern.file=2022-09-09-10:57:58 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer-AAAA Tomcat initialized with port(s): 8081 (https)
+logging.pattern.file=2022-09-09-10:57:58 [main] INFO  org.apache.catalina.core.AprLifecycleListener-AAAA An older version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+logging.pattern.file=2022-09-09-10:57:58 [main] INFO  org.apache.catalina.core.AprLifecycleListener-AAAA Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+logging.pattern.file=2022-09-09-10:57:58 [main] INFO  org.apache.catalina.core.AprLifecycleListener-AAAA APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+logging.pattern.file=2022-09-09-10:57:58 [main] INFO  org.apache.catalina.core.AprLifecycleListener-AAAA APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+logging.pattern.file=2022-09-09-10:57:59 [main] INFO  org.apache.catalina.core.AprLifecycleListener-AAAA OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+logging.pattern.file=2022-09-09-10:57:59 [main] INFO  org.apache.catalina.core.StandardService-AAAA Starting service [Tomcat]
+logging.pattern.file=2022-09-09-10:57:59 [main] INFO  org.apache.catalina.core.StandardEngine-AAAA Starting Servlet engine: [Apache Tomcat/9.0.65]
+logging.pattern.file=2022-09-09-10:57:59 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-AAAA Initializing Spring embedded WebApplicationContext
+logging.pattern.file=2022-09-09-10:57:59 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext-AAAA Root WebApplicationContext: initialization completed in 1312 ms
+logging.pattern.file=2022-09-09-10:57:59 [main] INFO  com.anzhou.file_store_proxy.config.HdfsConfiguration-AAAA HADOOP_USER_NAME:root
+logging.pattern.file=2022-09-09-10:58:01 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer-AAAA Tomcat started on port(s): 8081 (https) with context path ''
+logging.pattern.file=2022-09-09-10:58:01 [main] INFO  com.anzhou.file_store_proxy.FileStoreProxyApplication-AAAA Started FileStoreProxyApplication in 4.54 seconds (JVM running for 6.997)
+2022-09-09 13:59:36.871  INFO 10684 --- [main] c.a.f.FileStoreProxyApplication          : Starting FileStoreProxyApplication using Java 1.8.0_241 on DESKTOP-QN4LL7C with PID 10684 (C:\Users\pengpan\IdeaProjects\file_store_proxy\target\classes started by pengpan in C:\Users\pengpan\IdeaProjects\file_store_proxy)
+2022-09-09 13:59:36.875  INFO 10684 --- [main] c.a.f.FileStoreProxyApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-09-09 13:59:37.657  INFO 10684 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=25eb39a3-9916-3802-819b-afed00d2af1a
+2022-09-09 13:59:38.087  INFO 10684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (https)
+2022-09-09 13:59:38.088  INFO 10684 --- [main] o.a.catalina.core.AprLifecycleListener   : An older version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2022-09-09 13:59:38.088  INFO 10684 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2022-09-09 13:59:38.088  INFO 10684 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2022-09-09 13:59:38.089  INFO 10684 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2022-09-09 13:59:38.198  INFO 10684 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2022-09-09 13:59:38.210  INFO 10684 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-09 13:59:38.210  INFO 10684 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-09 13:59:38.495  INFO 10684 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-09 13:59:38.495  INFO 10684 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1571 ms
+2022-09-09 13:59:38.679  INFO 10684 --- [main] c.a.f.config.HdfsConfiguration           : HADOOP_USER_NAME:root
+2022-09-09 13:59:40.856  INFO 10684 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (https) with context path ''
+2022-09-09 13:59:40.866  INFO 10684 --- [main] c.a.f.FileStoreProxyApplication          : Started FileStoreProxyApplication in 4.63 seconds (JVM running for 7.321)
+2022-09-09 14:04:28.836  INFO 18488 --- [main] c.a.f.FileStoreProxyApplication          : Starting FileStoreProxyApplication using Java 1.8.0_241 on DESKTOP-QN4LL7C with PID 18488 (C:\Users\pengpan\IdeaProjects\file_store_proxy\target\classes started by pengpan in C:\Users\pengpan\IdeaProjects\file_store_proxy)
+2022-09-09 14:04:28.839  INFO 18488 --- [main] c.a.f.FileStoreProxyApplication          : No active profile set, falling back to 1 default profile: "default"
+2022-09-09 14:04:29.540  INFO 18488 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=25eb39a3-9916-3802-819b-afed00d2af1a
+2022-09-09 14:04:29.865  INFO 18488 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (https)
+2022-09-09 14:04:29.866  INFO 18488 --- [main] o.a.catalina.core.AprLifecycleListener   : An older version [1.2.23] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2022-09-09 14:04:29.866  INFO 18488 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2022-09-09 14:04:29.867  INFO 18488 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2022-09-09 14:04:29.867  INFO 18488 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2022-09-09 14:04:29.870  INFO 18488 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2022-09-09 14:04:29.881  INFO 18488 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-09-09 14:04:29.881  INFO 18488 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-09 14:04:30.150  INFO 18488 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-09-09 14:04:30.150  INFO 18488 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1265 ms
+2022-09-09 14:04:30.451  INFO 18488 --- [main] c.a.f.config.HdfsConfiguration           : HADOOP_USER_NAME:root
+2022-09-09 14:04:32.494  INFO 18488 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (https) with context path ''
+2022-09-09 14:04:32.504  INFO 18488 --- [main] c.a.f.FileStoreProxyApplication          : Started FileStoreProxyApplication in 4.244 seconds (JVM running for 6.911)
