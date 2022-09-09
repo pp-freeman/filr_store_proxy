@@ -1,0 +1,12 @@
+[Unit]
+Description=file_store_proxy
+After=network.target
+
+[Service]
+Type=forking
+ExecStart=/home/file_store_file/start.sh
+ExecStop=/home/file_store_file/stop.sh
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
